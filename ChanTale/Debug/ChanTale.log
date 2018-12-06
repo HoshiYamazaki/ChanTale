@@ -1,1 +1,11 @@
-﻿  ChanTale.vcxproj -> C:\Users\thesz\source\repos\ChanTale\Debug\ChanTale.exe
+﻿ChanTale.obj : error LNK2019: nierozpoznany zewnętrzny symbol _vkEnumerateInstanceExtensionProperties@12 przywołany w funkcji _main
+ChanTale.obj : error LNK2019: nierozpoznany zewnętrzny symbol _glfwInit przywołany w funkcji _main
+ChanTale.obj : error LNK2019: nierozpoznany zewnętrzny symbol _glfwTerminate przywołany w funkcji _main
+ChanTale.obj : error LNK2019: nierozpoznany zewnętrzny symbol _glfwWindowHint przywołany w funkcji _main
+ChanTale.obj : error LNK2019: nierozpoznany zewnętrzny symbol _glfwCreateWindow przywołany w funkcji _main
+ChanTale.obj : error LNK2019: nierozpoznany zewnętrzny symbol _glfwDestroyWindow przywołany w funkcji _main
+ChanTale.obj : error LNK2019: nierozpoznany zewnętrzny symbol _glfwWindowShouldClose przywołany w funkcji _main
+ChanTale.obj : error LNK2019: nierozpoznany zewnętrzny symbol _glfwPollEvents przywołany w funkcji _main
+C:\VulkanSDK\1.1.92.1\Lib\vulkan-1.lib : warning LNK4272: wystąpił konflikt typu maszyny biblioteki „x64” z typem maszyny docelowej „x86”
+H:\cpp\glfw-3.2.1.bin.WIN64\lib-vc2015\glfw3.lib : warning LNK4272: wystąpił konflikt typu maszyny biblioteki „x64” z typem maszyny docelowej „x86”
+C:\Users\thesz\source\repos\ChanTale\Debug\ChanTale.exe : fatal error LNK1120: liczba nierozpoznanych elementów zewnętrznych: 8
